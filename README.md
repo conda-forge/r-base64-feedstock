@@ -1,11 +1,11 @@
-About r-base64
-==============
+About r-base64-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-base64-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=base64
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-base64-feedstock/blob/main/LICENSE.txt)
 
 Summary: Compatibility wrapper to replace the orphaned package by Romain Francois. New applications should use the 'openssl' or 'base64enc' package instead.
 
